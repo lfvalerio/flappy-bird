@@ -1,4 +1,4 @@
 # Flappy Bird
- Game project for practicing Javascript
-
-https://lfsvalerio.github.io/flappy-bird/
+Projeto de jogo para praticar Javascript.
+ 
+Hospedado em: https://lfsvalerio.github.io/flappy-bird/
