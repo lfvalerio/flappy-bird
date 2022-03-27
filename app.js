@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let birdLeft = 220
     let birdBottom = 100
     let birdTop = birdBottom + 45
-    let gravity = 2
+    let gravity = 1
 
 
     function startGame() {
