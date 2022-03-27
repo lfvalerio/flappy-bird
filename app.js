@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.addEventListener('keyup', control)
 
 
-    function generalObstacle (){
+    function generalObstacle () {
         const obstacle = document.createElement('div')
         obstacle.classList.add('obstacle')
     }
