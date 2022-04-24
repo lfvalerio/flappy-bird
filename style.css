@@ -1,6 +1,6 @@
 .game-container {
     width: 500px;
-    height: 730px;
+    height: 650px;
     position: absolute;
 }
 
@@ -26,9 +26,10 @@
     height: 45px;
 }
 
-obstacle {
+.obstacle {
     background-color: green;
     width: 60px;
     height: 300px;
     position: absolute;
 }
+
